@@ -1,4 +1,5 @@
 #ejemplo de lista
+labels = ["Id", "Name", "Last_Name", "Email", "Password"]
 nombre = ["Pepito", "Andres", "Juan", "Maria", "Pedro"]
 edad = [25, 19, 21, 33, 40]
 estatura = [1.80, 1.65, 1.74, 1.66, 1.54]
